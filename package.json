@@ -1,0 +1,23 @@
+{
+  "name": "techlab-product-manager",
+  "version": "1.0.0",
+  "description": "Gestor de productos para tienda en línea usando FakeStore API - Proyecto TechLab",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "products",
+    "fakestore",
+    "techlab"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
